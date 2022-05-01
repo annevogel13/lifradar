@@ -13,6 +13,13 @@ est riche en données et nous permet de l'analyser sous 3 grands axes :
 * Des calculs d'itinéraires (en utilisant les parcours de graphes) 
 
 
- voila --template vuetify-default  --enable_nbextensions=True --VoilaConfiguration.file_whitelist="['favicon.ico']" .\notebook_ANLO.ipynb
+## Voila 
+On peut lancer le voila vuetify avec :  
 
-https://mybinder.org/v2/gh/annevogel13/lifradar/HEAD?urlpath=voila%2Frender%2Fnotebook_ANLO.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annevogel13/lifradar/HEAD?labpath=voila%2Frender%2Fnotebook_ANLO.ipynb)
+
+## Lancement dans le local 
+ou avec cette ligne dans le ligne de commende 
+```
+ voila --template vuetify-default  --enable_nbextensions=True --VoilaConfiguration.file_whitelist="['favicon.ico']" .\notebook_ANLO.ipynb
+````
