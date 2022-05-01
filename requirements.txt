@@ -6,7 +6,7 @@ numpy
 pandas
 numpy
 #csv
-math
+#math
 plotly.express
 plotly 
 plotly.io
