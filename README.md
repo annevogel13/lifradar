@@ -12,6 +12,8 @@ est riche en données et nous permet de l'analyser sous 3 grands axes :
 * Une analyse statistiques (avec représentation sous forme de graphique)
 * Des calculs d'itinéraires (en utilisant les parcours de graphes) 
 
+## conditions 
+Tous les conditions sont liste dans le requirements.txt
 
 ## Voila 
 On peut lancer le voila vuetify avec :  
