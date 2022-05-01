@@ -12,8 +12,18 @@ est riche en données et nous permet de l'analyser sous 3 grands axes :
 * Une analyse statistiques (avec représentation sous forme de graphique)
 * Des calculs d'itinéraires (en utilisant les parcours de graphes) 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annevogel13/lifradar/HEAD?urlpath=voila%2Frender%2Fnotebook_ANLO.ipynb)
 
+## conditions 
+Tous les conditions sont liste dans le requirements.txt
+>>>>>>> 415798277b0e569e036b26f7fb022915d87602aa
 
+## Voila 
+On peut lancer le voila vuetify avec :  
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annevogel13/lifradar/HEAD?labpath=voila%2Frender%2Fnotebook_ANLO.ipynb)
+
+## Lancement dans le local 
+ou avec cette ligne dans le ligne de commende 
+```
  voila --template vuetify-default  --enable_nbextensions=True --VoilaConfiguration.file_whitelist="['favicon.ico']" .\notebook_ANLO.ipynb
-
+````
