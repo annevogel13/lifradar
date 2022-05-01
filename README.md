@@ -12,7 +12,8 @@ est riche en données et nous permet de l'analyser sous 3 grands axes :
 * Une analyse statistiques (avec représentation sous forme de graphique)
 * Des calculs d'itinéraires (en utilisant les parcours de graphes) 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annevogel13/lifradar/HEAD?urlpath=voila%2Frender%2Fnotebook_ANLO.ipynb)
+
 
  voila --template vuetify-default  --enable_nbextensions=True --VoilaConfiguration.file_whitelist="['favicon.ico']" .\notebook_ANLO.ipynb
 
-https://mybinder.org/v2/gh/annevogel13/lifradar/HEAD?urlpath=voila%2Frender%2Fnotebook_ANLO.ipynb
