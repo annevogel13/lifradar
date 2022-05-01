@@ -5,7 +5,7 @@ bqplot
 numpy
 pandas
 numpy
-csv
+#csv
 math
 plotly.express
 plotly 
