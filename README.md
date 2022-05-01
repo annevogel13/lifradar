@@ -15,7 +15,6 @@ est riche en données et nous permet de l'analyser sous 3 grands axes :
 
 ## conditions 
 Tous les conditions sont liste dans le requirements.txt
->>>>>>> 415798277b0e569e036b26f7fb022915d87602aa
 
 ## Voila 
 On peut lancer le voila vuetify avec :  
