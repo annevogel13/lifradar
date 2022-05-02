@@ -4,25 +4,6 @@ Bienvenue au sein de notre projet LifRadarAvion.
 
 ## Présentation
 Le projet **LifRadarAvion** est réalisé dans le cadre de l'UE LIFPROJET de l'université 
-Uitvouwen
-README.md
-4 KB
-Enfin pour le readme, tu ajoutes que si c'est ok 😉 
-Concernant le code, il reste encore des TODO au début (c'était les tiens, mais je ne savais pas si tu en avais encore besoin)
-Au niveau des packages, il semblerait que igraph et pickel ne soit pas utiliser ? (A vérifier)
-Une fois ton code commenté, je pourrais le relire si tu veux
-DEJONG.Anne — vandaag om 15:30
-Igraph est utiles une fois. Mais pickel non c'est plus utilisé. C'était le truc que tu avec le commentaire de # alternative
-Je regarde ça se soir
-DEJONG.Anne — vandaag om 15:30
-Oui je veux bien. Je te dirai quand j'ai fini
-﻿
-# LifRadarAvion
-***
-Bienvenue au sein de notre projet LifRadarAvion.
-
-## Présentation
-Le projet **LifRadarAvion** est réalisé dans le cadre de l'UE LIFPROJET de l'université 
 Claude Bernard Lyon 1. Composé de deux étudiants, **DE JONG Anne** et **MERCIER Loris**, le
 projet a pour but d'**analyser les données liées au trafic aérien mondiale**.
 
@@ -89,5 +70,3 @@ Saisisser la ligne de commande suivante pour lancer le site web en local
  voila --template vuetify-default  --enable_nbextensions=True --VoilaConfiguration.file_whitelist="['favicon.ico']" .\notebook_ANLO.ipynb
 ````
 _/!\ Peut ne pas fonctionner en fonction des versions des biblitohèques installées. Consulter alors directement notre site en ligne._
-README.md
-4 KB
